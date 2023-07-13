@@ -1,0 +1,14 @@
+{
+  "name": "pop-quiz-q2-backend",
+  "version": "1.0.0",
+  "description": "Pop Quiz Backend Question 2 (RegOv Technologies)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Firuz Akhmadov",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.1"
+  }
+}
